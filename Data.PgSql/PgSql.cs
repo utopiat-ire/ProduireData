@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 日本語プログラミング言語「プロデル」データベースプラグイン
+// Copyright(C) 2007-2024 utopiat.net https://github.com/utopiat-ire/
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Data;

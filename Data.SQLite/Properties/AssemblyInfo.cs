@@ -11,7 +11,7 @@ using Produire;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("utopiat.net")]
 [assembly: AssemblyProduct("日本語プログラミング言語プロデル")]
-[assembly: AssemblyCopyright("Copyright(C) 2007-2023 utopiat.net")]
+[assembly: AssemblyCopyright("Copyright(C) 2007-2024 utopiat.net")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
